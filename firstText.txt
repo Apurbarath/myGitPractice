@@ -1,3 +1,0 @@
-This is First text file
-Adding second line
-Adding this file for rebase
